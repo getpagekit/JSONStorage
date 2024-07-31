@@ -1,4 +1,6 @@
 /**
+ * JSONStorage是一个旧项目，用于GetPagekit 开发的过度
+ *
  * JSONStorage - a simple storage helper inspired by the redis api.
  *
  * @author     Artur Heinze
